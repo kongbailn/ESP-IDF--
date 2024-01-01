@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"esp_timer.h": "c",
+			"uart.h": "c",
+			"cmath": "c",
+			"*.tcc": "c",
+			"string.h": "c",
+			"gpio.h": "c",
+			"esp_system.h": "c",
+			"task.h": "c"
+		}
+	}
+}
